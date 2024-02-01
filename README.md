@@ -31,3 +31,6 @@ Based on visually analyzing the cluster analysis results, what’s the impact of
 The inertia has been changed by reducing the features. Therefore, compared to the scale data, PCA results were better for clusters. We've seen more precise clustering with the use of the optimal PCA value of 2.
 
 
+References
+The Ohio State University Data Analytics Bootcamp
+
